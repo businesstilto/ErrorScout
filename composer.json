@@ -1,0 +1,19 @@
+{
+    "name": "tilto/errorscout",
+    "description": "Automatically find and display all PHP errors across your project, so you can fix them quickly without manual searching!",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Tilto\\Errorscout\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Matilda Smets",
+            "email": "info@tilto.nl"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
